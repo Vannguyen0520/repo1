@@ -1,0 +1,11 @@
+ Volume in drive E is PRIVATE
+ Volume Serial Number is 448C-EC8F
+
+ Directory of e:\Tester\Git\Myproject
+
+10/06/2017  10:08 AM    <DIR>          .
+10/06/2017  10:08 AM    <DIR>          ..
+10/06/2017  10:08 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  638,650,564,608 bytes free
+			   Change 1
